@@ -32,5 +32,23 @@ La actividad permitió comprender cómo la Transformada de Fourier representa la
 ## Archivos
 El repositorio contiene el código fuente MATLAB, las cinco evidencias gráficas y un archivo ZIP con las imágenes.
 
+Evidencias gráficas.
+
+## Evidencias gráficas
+
+### 1. Señales en el dominio del tiempo
+![Señales en el tiempo](01_senales_tiempo.png)
+
+### 2. Espectros de Fourier: magnitud y fase
+![Espectros de Fourier](02_espectros_magnitud_fase.png)
+
+### 3. Propiedad de linealidad
+![Propiedad de linealidad](03_linealidad.png)
+
+### 4. Propiedad de desplazamiento temporal
+![Desplazamiento temporal](04_desplazamiento.png)
+
+### 5. Propiedad de escalamiento
+![Escalamiento](05_escalamiento.png)
 
 
